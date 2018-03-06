@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sl_SI">
+<TS version="2.0" language="sl_SI">
 <context>
     <name>tkConstants</name>
     <message>
@@ -634,7 +634,7 @@
     </message>
     <message>
         <location filename="../../libs/translationutils/trans_current.h" line="168"/>
-        <source>&lt;h2&gt;Welcome to FreeHealth&lt;/h2&gt;&lt;h3&gt;© %1 Jerome Pinguet&lt;/h3&gt;&lt;h3&gt;(C) 2008-2015 by Dr Eric Maeker (France)&lt;/h3&gt;&lt;p&gt;This software is released without any warranty, for testing purposes only.&lt;br/&gt;Please refer to our &lt;a href=&quot;%2&quot;&gt;web site&lt;/a&gt; for more information.&lt;br /&gt;FreeHealth is based on FreeMedForms created by Eric Maeker.&lt;/p&gt;</source>
+        <source>&lt;h2&gt;Welcome to FreeHealth&lt;/h2&gt;&lt;h3&gt;Â© %1 Jerome Pinguet&lt;/h3&gt;&lt;h3&gt;(C) 2008-2015 by Dr Eric Maeker (France)&lt;/h3&gt;&lt;p&gt;This software is released without any warranty, for testing purposes only.&lt;br/&gt;Please refer to our &lt;a href=&quot;%2&quot;&gt;web site&lt;/a&gt; for more information.&lt;br /&gt;FreeHealth is based on FreeMedForms created by Eric Maeker.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
